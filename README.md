@@ -281,13 +281,4 @@ Please follow repository guidelines and include clear, reproducible examples.
 ---
 
 ## License
-This repository is open-source. Feel free to use and adapt the prompts for personal, educational, or organizational use. Include a license file for specifics.
-
----
-
-If you want, I can:
-- Format each prompt into ready-to-copy templates (GATE, DSA, HR templates).
-- Add example conversations and checklist templates.
-- Create a short contributor guide and PR template.
-
-Which of the above would you like next?
+This repository is open-source. Feel free to use and adapt the prompts for personal, educational, or organizational use. Include a license file 
